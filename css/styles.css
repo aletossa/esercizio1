@@ -1,0 +1,34 @@
+.grandezza {
+    font-size: 90px;
+}
+
+.row div{
+    border: 3px solid black;
+    height: 100px;
+    width: 200px;
+    
+}
+
+.coloreSfondo{
+    background-color: purple;
+}
+
+.coloreTesto {
+    color: blanchedalmond;
+}
+
+.centraTabella{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.centraBottone{
+    margin-left: 65.5px;
+    
+}
+
+.bottoneReset{
+    position: relative;
+    left: 44.5%;
+    right: 50%;
+}
